@@ -59,3 +59,5 @@ dkms.conf
 # Keil Project
 
 *.orig
+OUTPUT
+USER/STM32-IAP-APP.uvguix.*
